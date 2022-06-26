@@ -1,0 +1,27 @@
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centerdiv{
+  width: 400px;
+  height: 500px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px lightblue;
+}
+
+.padding-top-bottom{
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+}
+
+ol{
+  list-style: none;
+}
+
+.ls-styles{
+  color: red;
+  font-weight: bold;
+}

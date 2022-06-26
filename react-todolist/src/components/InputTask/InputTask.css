@@ -1,0 +1,28 @@
+.outerdiv{
+	display: flex;
+	justify-content: center;
+}
+
+
+.set-input-pos{
+	display: flex;
+	justify-content: center;
+}
+
+.input-style{
+	border: none;
+  	border-bottom: 2px solid red;
+  	padding: 5px;
+  	margin-top: 18px;
+  	width: 200px;
+  	outline: none;
+}
+
+.animate-button{
+	padding: 8px;
+	color: white;
+}
+
+.animate-button:hover{
+	background: #90ee90;
+}
